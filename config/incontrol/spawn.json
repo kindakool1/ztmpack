@@ -1,0 +1,144 @@
+[
+	{
+		"mob": "ancientbeasts:giant_zombie",
+		"dimension": 0,
+		"biome": "Cliffs",
+		"seesky": true,
+		"maxcount": {
+			"mob": "ancientbeasts:giant_zombie",
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mob": "ancientbeasts:frostash_fox",
+		"dimension": 0,
+		"biome": ["Ice Plains Spikes", "Glacier Spikes"],
+		"seesky": true,
+		"maxcount": {
+			"mob": "ancientbeasts:frostash_fox",
+			"amount": 16,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mob": "ancientbeasts:frost_walker",
+		"dimension": 0,
+		"biome": ["Ice Plains Spikes", "Glacier Spikes"],
+		"maxcount": {
+			"mob": "ancientbeasts:frost_walker",
+			"amount": 16,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mob": "mocreatures:fox",
+		"dimension": 0,
+		"biome": ["Ice Plains Spikes", "Glacier Spikes"],
+		"result": "deny"
+	},
+	{
+		"mod": ["ancientbeasts", "mod_lavacow", "pvj"],
+		"dimension": [-17, 7, 684, 685, 686, 687, 688],
+		"result": "deny"
+	},
+	{
+		"mob": "lumen:firefly",
+		"dimension": 7,
+		"biome": "Firefly Forest",
+		"minheight": 30,
+		"maxheight": 36,
+		"maxcount": {
+			"mod": "lumen",
+			"amount": 240,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mob": "lumen:firefly",
+		"dimension": 7,
+		"biome": "Enchanted Forest",
+		"minheight": 30,
+		"maxheight": 36,
+		"maxcount": {
+			"mob": "lumen:firefly",
+			"amount": 60,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mob": "lumen:psi_firefly",
+		"dimension": 7,
+		"biome": "Enchanted Forest",
+		"minheight": 30,
+		"maxheight": 36,
+		"maxcount": {
+			"mob": "lumen:psi_firefly",
+			"amount": 300,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mod": "lumen",
+		"dimension": 7,
+		"result": "deny"
+	},
+	{
+		"mob": "lumen:firefly",
+		"dimension": 0,
+		"biometype": "CONIFEROUS",
+		"result": "deny"
+	},
+	{
+		"mob": "lumen:firefly",
+		"dimension": 0,
+		"biometype": ["FOREST", "WET"],
+		"result": "allow"
+	},
+	{
+		"mob": "lumen:lightning_bug",
+		"dimension": 0,
+		"biometype": "CONIFEROUS",
+		"result": "allow"
+	},
+	{
+		"mob": "lumen:psi_firefly",
+		"dimension": -17,
+		"maxcount": {
+			"mob": "lumen:psi_firefly",
+			"amount": 180,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"mod": "lumen",
+		"dimension": -17,
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:enderman",
+		"dimension": -17,
+		"mincount": {
+			"mob": "minecraft:enderman",
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mod": "lumen",
+		"mincount": {
+			"mod": "lumen",
+			"amount": 360,
+			"perchunk": true
+		},
+		"result": "deny"
+	}
+]

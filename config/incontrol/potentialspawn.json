@@ -1,0 +1,136 @@
+[
+	{
+		"dimension": 0,
+		"biome": "Cliffs",
+		"mobs": [
+		  {
+			"mob": "ancientbeasts:giant_zombie",
+			"weight": 4,
+			"groupcountmin": 1,
+			"groupcountmax": 1
+		  }
+		]
+	},
+	{
+		"dimension": 0,
+		"biome": ["Ice Plains Spikes", "Glacier Spikes"],
+		"mobs": [
+		  {
+			"mob": "ancientbeasts:frostash_fox",
+			"weight": 16,
+			"groupcountmin": 1,
+			"groupcountmax": 3
+		  }
+		]
+	},
+	{
+		"dimension": 0,
+		"mintime": 13000,
+		"biome": ["Ice Plains Spikes", "Glacier Spikes"],
+		"mobs": [
+		  {
+			"mob": "ancientbeasts:frost_walker",
+			"weight": 16,
+			"groupcountmin": 1,
+			"groupcountmax": 2
+		  }
+		]
+	},
+	{
+		"dimension": 7,
+		"biome": ["Firefly Forest", "Enchanted Forest"],
+		"mobs": [
+		  {
+			"mob": "lumen:firefly",
+			"weight": 36,
+			"groupcountmin": 4,
+			"groupcountmax": 16
+		  }
+		]
+	},
+	{
+		"dimension": 7,
+		"biome": "Enchanted Forest",
+		"mobs": [
+		  {
+			"mob": "lumen:psi_firefly",
+			"weight": 36,
+			"groupcountmin": 4,
+			"groupcountmax": 16
+		  }
+		]
+	},
+	{
+		"dimension": -17,
+		"mobs": [
+		  {
+			"mob": "lumen:psi_firefly",
+			"weight": 18,
+			"groupcountmin": 4,
+			"groupcountmax": 8
+		  }
+		]
+	},
+	{
+		"dimension": 0,
+		"mintime": 13000,
+		"biometype": ["FOREST", "WET"],
+		"mobs": [
+		  {
+			"mob": "lumen:firefly",
+			"weight": 160,
+			"groupcountmin": 12,
+			"groupcountmax": 36
+		  }
+		]
+	},
+	{
+		"dimension": 0,
+		"mintime": 13000,
+		"biometype": "CONIFEROUS",
+		"mobs": [
+		  {
+			"mob": "lumen:lightning_bug",
+			"weight": 160,
+			"groupcountmin": 12,
+			"groupcountmax": 36
+		  }
+		]
+	},
+	{
+		"dimension": -1,
+		"structure": "Fortress",
+		"mobs": [
+			 {
+				"mob": "minecraft:blaze",
+				"weight": 10,
+				"groupcountmin": 2,
+				"groupcountmax": 3
+			 },
+			 {
+				"mob": "minecraft:zombie_pigman",
+				"weight": 5,
+				"groupcountmin": 4,
+				"groupcountmax": 4
+			 },
+			 {
+				"mob": "minecraft:wither_skeleton",
+				"weight": 8,
+				"groupcountmin": 5,
+				"groupcountmax": 5
+			 },
+			 {
+				"mob": "minecraft:skeleton",
+				"weight": 2,
+				"groupcountmin": 5,
+				"groupcountmax": 5
+			 },
+			 {
+				"mob": "minecraft:magma_cube",
+				"weight": 3,
+				"groupcountmin": 4,
+				"groupcountmax": 4
+			 }
+		]
+	}
+]
