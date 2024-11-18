@@ -1,0 +1,2 @@
+steel dust smelts only in redstone furnace
+thermal foundation items not in JEI
