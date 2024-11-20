@@ -1,2 +1,4 @@
 steel dust smelts only in redstone furnace
-thermal foundation items not in JEI
+thermal foundation items and recipes invisible in JEI (upgrade kits)
+increase flans mounted mg damage
+add mending to enchantingplus table
