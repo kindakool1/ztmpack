@@ -2,3 +2,4 @@ steel dust smelts only in redstone furnace
 thermal foundation items and recipes invisible in JEI (upgrade kits)
 large backpack crafting recipe
 mending enchantment dissapearing from items (enchantingplus)
+creative music in survival mod
