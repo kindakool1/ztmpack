@@ -1,4 +1,3 @@
 large backpack crafting recipe
 mending enchantment dissapearing from items (enchantingplus)
 creative music in survival mod
-trumpet skeletons
