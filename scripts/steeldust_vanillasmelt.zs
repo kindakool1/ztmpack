@@ -1,0 +1,1 @@
+furnace.addRecipe(<thermalfoundation:material:160>, <thermalfoundation:material:96>);

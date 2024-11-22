@@ -5,4 +5,9 @@ minecraft:smith
 minecraft:butcher
 minecraft:nitwit
 openblocks:radio
+chococraftplus:stablehand
 oreberries:tinker
+immersiveengineering:engineer
+extrautils2:alchemist
+extrautils2:red_mechanic
+extrautils2:shady_merchant

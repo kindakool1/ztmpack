@@ -60,6 +60,18 @@ minecraft:mutated_savanna_rock
 minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
+pvj:prairie
+pvj:redwoods
+pvj:redwood_peaks
+pvj:willow_swamp
+pvj:boreal_forest
+pvj:snowy_boreal_forest
+pvj:aspen_grove
+pvj:overgrown_spires
+pvj:blossoming_fields
+appliedenergistics2:storage_biome
+buildcraftenergy:oil_ocean
+buildcraftenergy:oil_desert
 twilightforest:twilight_lake
 twilightforest:twilight_forest
 twilightforest:dense_twilight_forest
@@ -80,7 +92,6 @@ twilightforest:dark_forest_center
 twilightforest:highlands_center
 twilightforest:thornlands
 twilightforest:spooky_forest
-mocreatures:wyvernbiome
 traverse:autumnal_woods
 traverse:woodlands
 traverse:mini_jungle
@@ -103,6 +114,11 @@ traverse:desert_shrubland
 traverse:thicket
 traverse:arid_highland
 traverse:rocky_plains
+mocreatures:wyvernbiome
+galacticraftcore:outer space
+galacticraftplanets:outer space 1
+galacticraftplanets:outer space 2
+aether_legacy:aether_highlands
 dimdoors:limbo
 dimdoors:white_void
 dimdoors:black_void
