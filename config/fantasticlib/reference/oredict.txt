@@ -1984,14 +1984,14 @@ bowDiamond
 bowGold
 bowIron
 shardGlass
-stonePolished
-plankStained
 stoneJasperPolished
 stoneSlatePolished
 stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
+stonePolished
+plankStained
 blockCandle
 pressurePlateWood
 blockSlimeCyan
@@ -2389,6 +2389,6 @@ denseoreUranium
 orePoorUranium
 oreNuggetUranium
 gearUranium
-blockYellorium
 blockPlutonium
+blockYellorium
 blockBlutonium

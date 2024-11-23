@@ -82,7 +82,7 @@ minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
 quark:gravisand
-quark:seat
+quark:chest_passenger
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -97,11 +97,11 @@ quark:dweller
 quark:ashen
 quark:pirate
 quark:wraith
+quark:seat
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
 quark:glass_item_frame
-quark:chest_passenger
 ichunutil:entity_block
 ancientbeasts:sandy
 ancientbeasts:ghost
@@ -576,6 +576,7 @@ pvj:pvj_watcher
 pvj:pvj_beach_starfish
 pvj:pvj_boat
 pvj:pvj_coconut
+trumpetskeleton:trumpet_skeleton
 aether_legacy:moa
 aether_legacy:phyg
 aether_legacy:flying_cow
